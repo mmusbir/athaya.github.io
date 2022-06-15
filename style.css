@@ -12,8 +12,7 @@ a:hover {
     color: #A0522D;
 }
 section {
-    position:fixed;
-    width: 50%;
+     width: 50%;
     margin: auto;
     text-align: center;
     margin-top: 30px;
